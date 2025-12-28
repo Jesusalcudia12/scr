@@ -2,3 +2,4 @@ pyrogram
 aiofiles
 asyncio
 tgcrypto
+uvloop
